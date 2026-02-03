@@ -5,6 +5,6 @@
     "/content/subway-demo/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/subway/"
+    "/content/subway-demo/"
   ]
 }
