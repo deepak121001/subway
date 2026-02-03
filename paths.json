@@ -1,8 +1,8 @@
 {
   "mappings": [
-    "/content/subway/:/",
-    "/content/subway/configuration:/.helix/config.json",
-    "/content/subway/metadata:/metadata.json"
+    "/content/aem-boilerplate-xwalk/:/",
+    "/content/aem-boilerplate-xwalk/configuration:/.helix/config.json",
+    "/content/aem-boilerplate-xwalk/metadata:/metadata.json"
   ],
   "includes": [
     "/content/subway/"
